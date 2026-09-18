@@ -135,12 +135,12 @@
 }
 .budt-748-information-systems-projects {
   color: #000000;
-  text-align: center;
+  text-align: left;      /* changed from center */
   font-family: "Montserrat-Bold", sans-serif;
   font-size: 45px;
   font-weight: 700;
   position: absolute;
-  left: 1px;
+  left: 80px;             /* changed from 1px to match frame-4 */
   top: 175px;
   width: 1252px;
   height: 101px;
